@@ -1,3 +1,22 @@
+body {
+  padding: 2rem 10%;
+  text-align: center;
+}
+
+.products {
+  margin: 2rem 0;
+}
+
+.products article {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.products article h1 {
+  font-size: 1rem;
+}
+
 input {
   border: solid 1px black;
 }
